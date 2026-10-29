@@ -2,6 +2,8 @@
 
 ## Can accounting data from US public companies predict whether they will go bankrupt within the following year? 
 
+### Repistory: https://github.com/cathaljoyce/project-ml
+
 #### Dataset
 SoWIDE Lab, University of Parma, https://github.com/sowide/bankruptcy_dataset 
 #### License
