@@ -2,7 +2,7 @@
 
 ## Can accounting data from US public companies predict whether they will go bankrupt within the following year? 
 
-### Repistory: https://github.com/cathaljoyce/project-ml
+### Repository: https://github.com/cathaljoyce/project-ml
 
 #### Dataset
 SoWIDE Lab, University of Parma, https://github.com/sowide/bankruptcy_dataset 
@@ -18,6 +18,7 @@ The data isn't in this repository. Download `dataset_paper.zip` from the dataset
     data/raw/                                Data files to download
     notebooks/my_audit.ipynb                 Data audit
     notebooks/my_baseline.ipynb              Baseline model
+    notebooks/my_models.ipynb                Model comparison
     requirements.txt                         Python packages needed
 
 
@@ -34,4 +35,4 @@ From the project folder, start JupyterLab:
 Then open the `notebooks` folder, open each notebook and run Kernel -> Restart Kernel and Run All Cells.
 
 #### Assistance declaration
-I used Claude to help with my code, it fixed errors I had and gave example code with explanations for parts I couldn't write, which I re-typed and checked myself. I also used it to help compare datasets, and spot problems within the data.
+I used Claude to help with my code, it fixed errors I had and gave example code with explanations for parts I couldn't write, which I re-typed and checked myself. I also used it to help compare datasets, and spot problems within the data and discuss which models would work best for my data.
