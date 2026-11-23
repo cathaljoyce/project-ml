@@ -18,12 +18,13 @@ The data isn't in this repository. Download `dataset_paper.zip` from the dataset
     data/raw/                                Data files to download
     notebooks/my_audit.ipynb                 Data audit
     notebooks/my_baseline.ipynb              Baseline model
-    notebooks/my_models.ipynb                Model comparison
+    notebooks/my_models.ipynb                Model comparison and final test evaluation
+    reports/                                 Final Report
     requirements.txt                         Python packages needed
-
+    .gitignore                               Files not uploaded to GitHub
 
 #### Setup Steps
-Using Python 3.11 on macOS. I used Anaconda which already has everything needed. Otherwise install the packages with:
+Using Python 3.11.4 on macOS. I used Anaconda which already has everything needed. Otherwise install the packages with:
 
     pip install -r requirements.txt
 
