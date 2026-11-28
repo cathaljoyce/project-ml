@@ -19,7 +19,7 @@ The data isn't in this repository. Download `dataset_paper.zip` from the dataset
     notebooks/my_audit.ipynb                 Data audit
     notebooks/my_baseline.ipynb              Baseline model
     notebooks/my_models.ipynb                Model comparison and final test evaluation
-    reports/                                 Final Report
+    report/Machine Learning Report.pdf       Final Report
     requirements.txt                         Python packages needed
 
 #### Setup Steps
